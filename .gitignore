@@ -13,8 +13,8 @@ buildroot/buildroot/
 *.swp
 *~
 
-dnspark
 # Binarios generados
+dnspark
 
 /tmp/
 
