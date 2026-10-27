@@ -14,5 +14,6 @@ buildroot/buildroot/
 *~
 
 # Binarios generados
-dnspark
+
 /tmp/
+

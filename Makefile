@@ -8,7 +8,7 @@ CC      := $(CROSS)gcc
 CFLAGS  := -std=c99 -O2 -Wall -Wextra -D_POSIX_C_SOURCE=200809L
 LDFLAGS :=
 
-SRC := src/main.c
+SRC := buildroot/package/dnspark/main.c
 BIN := dnspark
 
 $(BIN): $(SRC)
