@@ -1,0 +1,1 @@
+../buildroot/package/dnspark/main.c

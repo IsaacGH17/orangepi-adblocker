@@ -1,0 +1,8 @@
+config BR2_PACKAGE_DNSPARK
+	bool "dnspark"
+	help
+	  Daemon DNS blocker ligero para Orange Pi (H3).
+	  Escucha UDP :53, bloquea dominios de una blocklist y
+	  reenvía el resto a upstream.
+
+	  https://github.com/isaac/dnspark

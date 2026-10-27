@@ -1,0 +1,4 @@
+# Config.in del external tree — importa los menús de nuestros paquetes
+menu "dnspark external tree"
+source "$BR2_EXTERNAL_DNSPARK_EXT_PATH/package/dnspark/Config.in"
+endmenu

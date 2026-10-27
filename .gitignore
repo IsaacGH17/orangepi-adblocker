@@ -1,0 +1,18 @@
+# Build interno de Buildroot
+buildroot/buildroot/output/
+buildroot/buildroot/dl/
+buildroot/buildroot/.config
+buildroot/buildroot/build.log
+buildroot/buildroot/br.log
+
+# Directorio completo del submodule de buildroot
+buildroot/buildroot/
+
+# Editor / temporales
+*.kate-swp
+*.swp
+*~
+
+# Binarios generados
+dnspark
+/tmp/
